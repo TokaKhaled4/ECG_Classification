@@ -1,0 +1,5 @@
+pywavelets
+joblib
+streamlit-lottie
+scipy
+scikit-learn
