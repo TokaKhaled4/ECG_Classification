@@ -26,4 +26,4 @@ This project focuses on classifying ECG signals to differentiate between normal 
 
 ## Project Link
 
-Access the live application here: [Project Link](#)  
+Access the live application here: [Project Link](https://ecg-classification.streamlit.app/)  
